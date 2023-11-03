@@ -1,0 +1,4 @@
+Dictionary in Python
+Dictionaries are used to store data values in key : value pairs. Dictionaries and lists share the following characteristics: Both are Mutable. Both are Dynamic.They can grow and shrink as needed. Both can be nested. A list can contain another list. A dictionary another dictionary. A dictionary can also contain a list, and vice versa.
+
+Dictionary item are ordered, changeable, and does not allow duplicates. Dictinary items are presented in key : value pairs, and can be referred to by using the key name. As of Python version 3.7, dictionaries are ordered.In Python 3.6 and earlier, dictionaries are unordered. When we say that dictionaries are ordered, it means that the items have a defined order, and that order will not change. Unordered means that the items does not have a defined order, you cannot refer to an index.
